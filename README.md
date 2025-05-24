@@ -1,8 +1,6 @@
 Hi, I'm Kari!
 
-I am a computer science student at Texas A&M - San Antonio.
-
-
+I'm a Software Engineer with a focus on backend development. I am a recent Computer Science graduate from Texas A&M University-San Antonio. 
 
 <!---
 e-kari/e-kari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
